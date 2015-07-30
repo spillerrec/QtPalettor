@@ -38,6 +38,11 @@ These color settings are currently available:
 - ButtonText
 - BrightText
 - Link
+- Light
+- Midlight
+- Dark
+- Mid
+- Shadow
 - Highlight
 - HighlightedText
 

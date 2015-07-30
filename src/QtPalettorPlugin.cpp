@@ -57,6 +57,13 @@ PalettedStyle::PalettedStyle() : QProxyStyle() {
 		set( QPalette::ButtonText,      "ButtonText"      );
 		set( QPalette::BrightText,      "BrightText"      );
 		set( QPalette::Link,            "Link"            );
+		
+		set( QPalette::Light,           "Light"           );
+		set( QPalette::Midlight,        "Midlight"        );
+		set( QPalette::Mid,             "Mid"             );
+		set( QPalette::Dark,            "Dark"            );
+		set( QPalette::Shadow,          "Shadow"          );
+		
 		set( QPalette::Highlight,       "Highlight"       );
 		set( QPalette::HighlightedText, "HighlightedText" );
 	}
