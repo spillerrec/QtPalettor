@@ -47,6 +47,7 @@ PalettedStyle::PalettedStyle() : QProxyStyle() {
 			};
 		
 		set( QPalette::Window,          "Window"          );
+		set( QPalette::Background,      "Background"      );
 		set( QPalette::WindowText,      "WindowText"      );
 		set( QPalette::Base,            "Base"            );
 		set( QPalette::AlternateBase,   "AlternateBase"   );
@@ -57,6 +58,7 @@ PalettedStyle::PalettedStyle() : QProxyStyle() {
 		set( QPalette::ButtonText,      "ButtonText"      );
 		set( QPalette::BrightText,      "BrightText"      );
 		set( QPalette::Link,            "Link"            );
+		set( QPalette::LinkVisited,     "LinkVisited"     );
 		
 		set( QPalette::Light,           "Light"           );
 		set( QPalette::Midlight,        "Midlight"        );
