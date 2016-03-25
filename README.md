@@ -47,3 +47,7 @@ These color settings are currently available:
 - HighlightedText
 
 For details of each color setting, see: http://doc.qt.io/qt-5/qpalette.html#ColorRole-enum
+
+###qt4setter
+This is a small application which sets the Qt4 palette to be the same as the Qt5 palette.
+It currently requires manual intervention, you have to edit the ~/.config/Trolltech.conf file and remove the quotes for the settings `Palette\active`, `Palette\disabled`, and `Palette\inactive`.
