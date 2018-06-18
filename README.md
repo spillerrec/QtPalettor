@@ -1,6 +1,10 @@
 # QtPalettor
 QtPalettor makes it possible to custimize the color palette for existing Qt5 themes and change the overall look, without having to fine-tune every little fine detail which Qt style sheets quickly requires you to do.
 
+### Deprecation notice
+
+There are now better alternatices for configuring QT5's apperance and I suggest trying [qt5ct](https://sourceforge.net/projects/qt5ct/) first to see if it fits your needs.
+
 ### Instalation
 Compile by running:
 
